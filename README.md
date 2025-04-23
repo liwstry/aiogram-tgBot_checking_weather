@@ -1,1 +1,3 @@
-# tgBot_checking_weather
+Создайте бота и получите токен: @BotFather
+
+Далее вставьте токен от своего бота по путь: config/config.py TOKEN = ""
