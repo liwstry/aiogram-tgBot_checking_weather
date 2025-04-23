@@ -2,6 +2,6 @@
 
 Зарегистрируйтесь и получите свой API-ключ: https://openweathermap.org/current
 
-Вставьте свой ключ от бота по пути: config/config/TOKEN
+Вставьте свой ключ от бота по пути: config/config.py/TOKEN
 
-Вставьте свой API-ключ по пути: config/config/API_KEY
+Вставьте свой API-ключ по пути: config/config.py/API_KEY
